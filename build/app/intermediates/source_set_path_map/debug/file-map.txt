@@ -1,0 +1,12 @@
+com.example.design_demo.app-debug-0 C:\Ananthu\AKPro\Projects\Flutter\design_demo\android\app\src\debug\res
+com.example.design_demo.app-main-1 C:\Ananthu\AKPro\Projects\Flutter\design_demo\android\app\src\main\res
+com.example.design_demo.app-pngs-2 C:\Ananthu\AKPro\Projects\Flutter\design_demo\build\app\generated\res\pngs\debug
+com.example.design_demo.app-resValues-3 C:\Ananthu\AKPro\Projects\Flutter\design_demo\build\app\generated\res\resValues\debug
+com.example.design_demo.app-rs-4 C:\Ananthu\AKPro\Projects\Flutter\design_demo\build\app\generated\res\rs\debug
+com.example.design_demo.app-mergeDebugResources-5 C:\Ananthu\AKPro\Projects\Flutter\design_demo\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.design_demo.app-mergeDebugResources-6 C:\Ananthu\AKPro\Projects\Flutter\design_demo\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.design_demo.app-merged_res-7 C:\Ananthu\AKPro\Projects\Flutter\design_demo\build\app\intermediates\merged_res\debug
+com.example.design_demo.app-jetified-window-1.0.0-beta04-8 C:\Users\AnanthuAjay\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.design_demo.app-jetified-annotation-experimental-1.1.0-9 C:\Users\AnanthuAjay\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.design_demo.app-core-1.6.0-10 C:\Users\AnanthuAjay\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.design_demo.app-jetified-window-java-1.0.0-beta04-11 C:\Users\AnanthuAjay\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
